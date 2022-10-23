@@ -424,7 +424,8 @@ max-width: 600px;
     .processSection {
       background-color: transparent !important;
     }
-  
+    #img1 {display: block;}
+    #img2 {display: none;}
     /*----------Content Section-------------*/
    .media { 
     width: 75%;
@@ -794,5 +795,8 @@ background-color:#1f1f1f;
    .resimage {
     max-width: 300px;
    }
+
+   #img1 {display: none;}
+   #img2 {display: block;}
    }
   
