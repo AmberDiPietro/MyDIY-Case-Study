@@ -611,8 +611,7 @@ max-width: 600px;
    
     /*----------Contact Section----------*/
     
-    /*-----contact section-----*/
-
+    /*----------Contact Section----------*/
   .contactme {
    
     display: flex;
@@ -663,7 +662,7 @@ input[type=text], select, textarea {
 }
 
 /* Style the submit button with a specific background color etc */
-input[type=send] {
+input[type=submit] {
   background-color: #fdc435;
   width: 70px;
   height: 30px;
@@ -679,7 +678,7 @@ input[type=send] {
 }
 
 /* Add a background color and some padding around the form */
-.containf {
+.CS {
   width: 100%;
  max-width: 600px;
   border-radius: 5px;
